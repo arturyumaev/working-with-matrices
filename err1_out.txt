@@ -1,0 +1,2 @@
+Programm needs key.
+Please use -a to addition / -m to multiplication
